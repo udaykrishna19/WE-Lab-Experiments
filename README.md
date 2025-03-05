@@ -11,3 +11,9 @@
   -> git remote add origin https://github.com/udaykrishna19/WE-Lab-Experiments.git
   -> git branch -M main
   -> git push -u origin main
+
+git add .
+git commit -m "Added new files"
+git push origin main
+
+git push --set-upstream origin main
